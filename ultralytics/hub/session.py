@@ -4,8 +4,6 @@ import threading
 import time
 from http import HTTPStatus
 from pathlib import Path
-import time
-import threading
 
 import requests
 from ultralytics_hub_sdk import HUB_WEB_ROOT, HUBClient
